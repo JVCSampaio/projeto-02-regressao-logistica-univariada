@@ -1,3 +1,5 @@
+> **Estudo concluído.** Este repositório faz parte de uma série de seis estudos baseados em livro. Consulte o [índice da série](https://github.com/JVCSampaio/data-science-projects) e o [portfólio](https://github.com/JVCSampaio) para os projetos em destaque.
+
 # Projeto 2 — Regressão Logística Univariada
 
 Modelos de regressão logística treinados **uma característica por vez** para classificar inadimplência em cartões de crédito, com avaliação rigorosa via curvas ROC/AUC e precisão-recall.
